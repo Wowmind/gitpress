@@ -1,0 +1,19 @@
+body{
+	background-color:skyblue;
+
+	font-color:white;
+}
+.main-header{
+	font-style: bold
+	font-size:16px;
+	font-family: Arial, helvetica, sans-serif;
+	font-color:white;
+}
+
+.box-1{
+	margin:auto;
+}
+
+.box-2{
+	border: 5px red solid;
+}
